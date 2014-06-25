@@ -1,0 +1,5 @@
+/Users/katienoland/Documents/GitHub/Week Two Code Challenge Two/Part2/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/katienoland/Documents/GitHub/Week Two Code Challenge Two/Part2/bin/Debug/Part2.exe.mdb
+/Users/katienoland/Documents/GitHub/Week Two Code Challenge Two/Part2/bin/Debug/Part2.exe
+/Users/katienoland/Documents/GitHub/Week Two Code Challenge Two/Part2/obj/x86/Debug/Part2.exe
+/Users/katienoland/Documents/GitHub/Week Two Code Challenge Two/Part2/obj/x86/Debug/Part2.exe.mdb
